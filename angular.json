@@ -88,10 +88,7 @@
           }
         },
         "deploy": {
-          "builder": "angular-cli-ghpages:deploy",
-          "options": {
-            "baseHref": "/formulario-recativo-Angular/"
-          }
+          "builder": "angular-cli-ghpages:deploy"
         }
       }
     }
